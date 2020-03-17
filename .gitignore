@@ -1,0 +1,23 @@
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.zip
+*.tar.gz
+*.rar
+
+### Gradle ###
+.gradle
+build/
+
+### Gradle Patch ###
+**/build/
+
+### IDE ###
+# Intellij IDEA
+.idea
