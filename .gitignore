@@ -14,6 +14,7 @@
 ### Gradle ###
 .gradle
 build/
+gradle
 
 ### Gradle Patch ###
 **/build/
